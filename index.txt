@@ -2,7 +2,7 @@
 	1.1 a1 master2 master3
 2. bbb
 	2.1 b2
-	2.2 b2
+	2.2 b2 theory
 3. ccc
 	3.1 c1
 4. ddd
